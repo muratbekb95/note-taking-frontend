@@ -1,0 +1,1 @@
+Before running this project, make sure you run note-taking-backend project and follow all instructions there as well.
